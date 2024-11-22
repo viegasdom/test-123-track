@@ -2,12 +2,12 @@ slug: untitled-track-ugmd9j
 id: ikzyyloiiybp
 revision: 1
 title: Test 123 hello guys!
-description: Short descripiton of a versioned track.
+description: Short descripiton of a versioned track.!!!!!!
 icon: ""
 tags: []
 owner: acme
 developers:
-- bruno@instruqt.com
+  - bruno@instruqt.com
 instructors: []
 maintenance: true
 idle_timeout: 300
