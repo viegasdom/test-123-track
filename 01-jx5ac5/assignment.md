@@ -3,6 +3,7 @@ slug: jx5ac5
 id: enhgxrblqbbt
 type: challenge
 title: Untitled Challenge test 123456
+teaser: new description
 difficulty: basic
 timelimit: 0
 lab_config:
